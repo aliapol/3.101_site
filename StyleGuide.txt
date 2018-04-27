@@ -1,0 +1,23 @@
+Style Guide for 3.101 Site
+______________________
+
+Body Color: beige
+Text Color: Black
+Footer Color: #00C8F9
+Font Name: Lato
+Font Weights: Regular (300) and Bold (700)
+
+Included Files:
+
+Logo: logo.png
+
+Front Page Image: IMG_8773.JPG
+
+
+
+Testimonial Text:
+    After I ran a 5K I decided to sign up for a marathon! 3.101 even helped me quit smoking! - Adam
+                
+    I started with 3.101 in May 2014. I went from not being able to run around the block to running my 5th 5K in Nov 2014. Plain and simple: This Plan Works! - Will
+    
+    If you want to improve your running, buying a training plan and joining a running group are a smart investment. - Sheila
